@@ -94,7 +94,7 @@
 <br>
 <!-- -------------------------------------------------------------------------------------- -->
 
-[![Swap-Nova's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniket3063&theme=react-dark&hide_border=true&area=true)](https://github.com/Swap-Nova/github-readme-activity-graph)
+[![Aniket Kumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniket3063&theme=react-dark&hide_border=true&area=true)](https://github.com/aniket3063/aniket3063)
 
 <br>
 <!-- -------------------------------------------------------------------------------------- -->
@@ -109,13 +109,7 @@
 <br>
 <!-- -------------------------------------------------------------------------------------- -->
 
-<div align="left">
-	
-<p>
-    Thanks for visiting my profile, and I look forward to connecting with you!
-</p>
-	
-</div>
+- Thanks for visiting my profile, and I look forward to connecting with you!
 
 <br>
 <!-- -------------------------------------------------------------------------------------- -->

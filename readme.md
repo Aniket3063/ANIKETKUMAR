@@ -71,7 +71,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aniket3063)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aniketkuma-r)](https://git.io/streak-stats)
 	
 </div>
 
@@ -81,8 +81,8 @@
 <h3 align="center"> 📊 GitHub Stats </h3>
 <div align="center">
 	
-<a href="https://github.com/aniket3063/aniket3063"><img alt="Aniket3063's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aniket3063&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/aniket3063/aniket3063"><img alt="Swap-Nova's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket3063&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/aniketkuma-r/aniketkuma-r"><img alt="aniketkuma-r's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aniketkuma-r&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/aniketkuma-r/aniketkuma-r"><img alt="aniketkuma-r's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketkuma-r&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 </div>
 
@@ -94,7 +94,7 @@
 <br>
 <!-- -------------------------------------------------------------------------------------- -->
 
-[![Aniket Kumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniket3063&theme=react-dark&hide_border=true&area=true)](https://github.com/aniket3063/aniket3063)
+[![Aniket Kumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniketkuma-r&theme=react-dark&hide_border=true&area=true)](https://github.com/aniketkuma-r/aniketkuma-r)
 
 <br>
 <!-- -------------------------------------------------------------------------------------- -->
@@ -102,7 +102,7 @@
 <h3 align="left"> ♣︎ Reach Out to Me </h3>
 <div align="left">
 
-<a href="https://www.linkedin.com/in/aniket-kumar-2b73a522a/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/aniketkuma-r/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 	
 </div>
 
